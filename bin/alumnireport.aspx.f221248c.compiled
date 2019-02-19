@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/AlumniReport.aspx" hash="100bd82185" filehash="5712d5edf6b7219e" flags="100000" assembly="App_Web_fs31etfn" type="ASP.studentmod_alumnireport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/AlumniReport.aspx" />
+        <filedep name="/Source - Spread/studentmod/AlumniReport.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

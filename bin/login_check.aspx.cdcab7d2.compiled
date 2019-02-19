@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Login_Check.aspx" hash="100bd82185" filehash="7887e913c5bd5df9" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.login_check_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/Login_Check.aspx" />
+        <filedep name="/Source - Spread/Login_Check.aspx.cs" />
+    </filedeps>
+</preserve>

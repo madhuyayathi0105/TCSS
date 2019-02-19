@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/CondonationReport.aspx" hash="100bd82185" filehash="10efc67459ff4ad9" flags="100000" assembly="App_Web_2qr0l2ws" type="ASP.attendancemod_condonationreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/CondonationReport.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/CondonationReport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

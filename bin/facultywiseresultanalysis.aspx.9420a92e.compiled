@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/facultywiseresultanalysis.aspx" hash="100bd82185" filehash="ae017da5a3270354" flags="100000" assembly="App_Web_y1tm3crd" type="ASP.markmod_facultywiseresultanalysis_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/facultywiseresultanalysis.aspx" />
+        <filedep name="/Source - Spread/MarkMod/facultywiseresultanalysis.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

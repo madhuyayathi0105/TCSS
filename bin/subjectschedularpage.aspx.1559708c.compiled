@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/Subjectschedularpage.aspx" hash="100bd82185" filehash="25e8208c314a0d8d" flags="100000" assembly="App_Web_mwt5mt5q" type="ASP.attendancemod_subjectschedularpage_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/Subjectschedularpage.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/Subjectschedularpage.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/Input_Events.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Input_Events.ascx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

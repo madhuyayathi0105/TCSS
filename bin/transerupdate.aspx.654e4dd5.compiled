@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/TranserUpdate.aspx" hash="100bd82185" filehash="87a1ed3e6dd80d5d" flags="100000" assembly="App_Web_xjcesity" type="ASP.financemod_transerupdate_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/TranserUpdate.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/TranserUpdate.aspx.cs" />
+    </filedeps>
+</preserve>

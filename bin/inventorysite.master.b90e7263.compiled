@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/InventoryMod/inventorysite.master" hash="100bd82185" filehash="a27f1f6b47701291" flags="100000" assembly="App_Web_duyqozlt" type="ASP.inventorymod_inventorysite_master">
+    <filedeps>
+        <filedep name="/Source - Spread/InventoryMod/inventorysite.master" />
+        <filedep name="/Source - Spread/InventoryMod/inventorysite.master.cs" />
+    </filedeps>
+</preserve>

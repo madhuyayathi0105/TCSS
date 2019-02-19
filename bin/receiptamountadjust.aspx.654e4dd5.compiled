@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/ReceiptAmountAdjust.aspx" hash="100bd82185" filehash="c83e7be36a97d2ec" flags="100000" assembly="App_Web_hl2ilfft" type="ASP.financemod_receiptamountadjust_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/ReceiptAmountAdjust.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/ReceiptAmountAdjust.aspx.cs" />
+    </filedeps>
+</preserve>

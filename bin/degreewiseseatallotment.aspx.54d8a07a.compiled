@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/DegreewiseSeatAllotment.aspx" hash="100bd82185" filehash="585e354570d49b25" flags="100000" assembly="App_Web_cre5a5k4" type="ASP.admissionmod_degreewiseseatallotment_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/DegreewiseSeatAllotment.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/DegreewiseSeatAllotment.aspx.cs" />
+    </filedeps>
+</preserve>

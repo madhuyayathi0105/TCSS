@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/Commom_Selection_Process.aspx" hash="100bd82185" filehash="e9f34462d23cb744" flags="100000" assembly="App_Web_blpec3qg" type="ASP.attendancemod_commom_selection_process_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/Commom_Selection_Process.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/Commom_Selection_Process.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

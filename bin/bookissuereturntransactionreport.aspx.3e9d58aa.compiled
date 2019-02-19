@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/BookIssueReturnTransactionReport.aspx" hash="100bd82185" filehash="3455ef395fbd775a" flags="100000" assembly="App_Web_rxxrkvfc" type="ASP.librarymod_bookissuereturntransactionreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/BookIssueReturnTransactionReport.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/BookIssueReturnTransactionReport.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FeedBackMOD/FeedbackSubSiteMaster.master" hash="100bd82185" filehash="f854a5349983a64a" flags="100000" assembly="App_Web_jozthxqj" type="ASP.feedbackmod_feedbacksubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/FeedBackMOD/FeedbackSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FeedBackMOD/FeedbackSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

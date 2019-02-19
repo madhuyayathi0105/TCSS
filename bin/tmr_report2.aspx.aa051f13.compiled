@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/TMR_Report2.aspx" hash="100bd82185" filehash="aaa245851a07be23" flags="100000" assembly="App_Web_uno5m2a0" type="ASP.coemod_tmr_report2_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/TMR_Report2.aspx" />
+        <filedep name="/Source - Spread/CoeMod/TMR_Report2.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

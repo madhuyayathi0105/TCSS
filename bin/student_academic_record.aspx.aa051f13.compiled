@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Student_Academic_record.aspx" hash="100bd82185" filehash="ce69ea4010cbd5a4" flags="100000" assembly="App_Web_ji0cnsj1" type="ASP.coemod_student_academic_record_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/Student_Academic_record.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Student_Academic_record.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

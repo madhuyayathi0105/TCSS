@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/StaffPaySettings.aspx" hash="100bd82185" filehash="5579fe09a7048570" flags="100000" assembly="App_Web_txxldd5e" type="ASP.hrmod_staffpaysettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/HRMOD/StaffPaySettings.aspx" />
+        <filedep name="/Source - Spread/HRMOD/StaffPaySettings.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

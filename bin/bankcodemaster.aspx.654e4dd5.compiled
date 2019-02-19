@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/BankCodeMaster.aspx" hash="100bd82185" filehash="3764a2fb4472fc" flags="100000" assembly="App_Web_s232qs3h" type="ASP.financemod_bankcodemaster_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/BankCodeMaster.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/BankCodeMaster.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

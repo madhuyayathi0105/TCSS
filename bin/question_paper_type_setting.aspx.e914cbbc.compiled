@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/QuestionMOD/Question_paper_type_setting.aspx" hash="100bd82185" filehash="407429a3a3ed4569" flags="100000" assembly="App_Web_tatsioeu" type="ASP.questionmod_question_paper_type_setting_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/QuestionMOD/Question_paper_type_setting.aspx" />
+        <filedep name="/Source - Spread/QuestionMOD/Question_paper_type_setting.aspx.cs" />
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master" />
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

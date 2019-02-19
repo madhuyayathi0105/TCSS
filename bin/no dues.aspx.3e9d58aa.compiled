@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/No Dues.aspx" hash="100bd82185" filehash="6f0c873f35d38330" flags="100000" assembly="App_Web_gp5f0dq3" type="ASP.librarymod_no_dues_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/LibraryMod/No Dues.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/No Dues.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

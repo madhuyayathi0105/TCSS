@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/NewSecuritySettings.aspx" hash="100bd82185" filehash="78c25814e4d2cc88" flags="100000" assembly="App_Web_51hysiya" type="ASP.newsecuritysettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/NewSecuritySettings.aspx" />
+        <filedep name="/Source - Spread/NewSecuritySettings.aspx.cs" />
+        <filedep name="/Source - Spread/Site.master" />
+        <filedep name="/Source - Spread/site.master.cs" />
+    </filedeps>
+</preserve>

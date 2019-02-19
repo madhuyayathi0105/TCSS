@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/ScheduleMOD/Class_Time_Table.aspx" hash="100bd82185" filehash="b4119d829a132c31" flags="100000" assembly="App_Web_is15ypkk" type="ASP.schedulemod_class_time_table_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/ScheduleMOD/Class_Time_Table.aspx" />
+        <filedep name="/Source - Spread/ScheduleMOD/Class_Time_Table.aspx.cs" />
+        <filedep name="/Source - Spread/ScheduleMOD/ScheduleSubSiteMaster.master" />
+        <filedep name="/Source - Spread/ScheduleMOD/ScheduleSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/InternalSeatingArrangement.aspx" hash="100bd82185" filehash="a8ac78859f65800" flags="100000" assembly="App_Web_tifw0b5x" type="ASP.markmod_internalseatingarrangement_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/InternalSeatingArrangement.aspx" />
+        <filedep name="/Source - Spread/MarkMod/InternalSeatingArrangement.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/HRSubSiteMaster.master" hash="100bd82185" filehash="1a03fa91ab1f18ed" flags="100000" assembly="App_Web_r0h4q3ty" type="ASP.hrmod_hrsubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

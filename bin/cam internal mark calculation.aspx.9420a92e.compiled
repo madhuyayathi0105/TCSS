@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/Cam Internal Mark Calculation.aspx" hash="100bd82185" filehash="3d02a1ccd37121aa" flags="100000" assembly="App_Web_fm4mqfpr" type="ASP.markmod_cam_internal_mark_calculation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/Cam Internal Mark Calculation.aspx" />
+        <filedep name="/Source - Spread/MarkMod/Cam Internal Mark Calculation.aspx.cs" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

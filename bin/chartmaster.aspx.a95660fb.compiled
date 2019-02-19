@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/ChartMOD/ChartMaster.aspx" hash="100bd82185" filehash="44b9d16b8ea9def9" flags="100000" assembly="App_Web_5fzuugjt" type="ASP.chartmod_chartmaster_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/ChartMOD/ChartMaster.aspx" />
+        <filedep name="/Source - Spread/ChartMOD/ChartMaster.aspx.cs" />
+        <filedep name="/Source - Spread/ChartMOD/ChartSubSiteMaster.master" />
+        <filedep name="/Source - Spread/ChartMOD/ChartSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

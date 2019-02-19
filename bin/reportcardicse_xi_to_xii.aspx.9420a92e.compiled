@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/ReportCardICSE_XI_To_XII.aspx" hash="100bd82185" filehash="29fa3063e57264e2" flags="100000" assembly="App_Web_lhiek5bt" type="ASP.markmod_reportcardicse_xi_to_xii_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/ReportCardICSE_XI_To_XII.aspx" />
+        <filedep name="/Source - Spread/MarkMod/ReportCardICSE_XI_To_XII.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

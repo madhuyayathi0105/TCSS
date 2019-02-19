@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Update DB/FinanceSubSiteMaster.master" hash="100bd82185" filehash="cbabd83d73d62c73" flags="100000" assembly="App_Web_01lensyf" type="ASP.update_db_financesubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/Update DB/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/Update DB/FinanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

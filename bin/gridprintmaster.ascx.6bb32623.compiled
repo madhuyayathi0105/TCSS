@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Usercontrols/GridPrintMaster.ascx" hash="100bd82185" filehash="6ae6b11b892491cd" flags="100000" assembly="App_Web_wwt1zy5j" type="ASP.usercontrols_gridprintmaster_ascx">
+    <filedeps>
+        <filedep name="/Source - Spread/Usercontrols/GridPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/GridPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

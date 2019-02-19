@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/ReportcardAngeloIndian_Xth_To_XIIth.aspx" hash="100bd82185" filehash="e9741914716c5be2" flags="100000" assembly="App_Web_b0rsb1mc" type="ASP.markmod_reportcardangeloindian_xth_to_xiith_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/ReportcardAngeloIndian_Xth_To_XIIth.aspx" />
+        <filedep name="/Source - Spread/MarkMod/ReportcardAngeloIndian_Xth_To_XIIth.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

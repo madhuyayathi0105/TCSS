@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/Staff_Belltime_Settings.aspx" hash="100bd82185" filehash="19c0eb08cbe629ae" flags="100000" assembly="App_Web_neback05" type="ASP.hrmod_staff_belltime_settings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/HRMOD/Staff_Belltime_Settings.aspx" />
+        <filedep name="/Source - Spread/HRMOD/Staff_Belltime_Settings.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/InternalMarkReport.aspx" hash="100bd82185" filehash="b6b024228d8003ac" flags="100000" assembly="App_Web_lhiek5bt" type="ASP.markmod_internalmarkreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/InternalMarkReport.aspx" />
+        <filedep name="/Source - Spread/MarkMod/InternalMarkReport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

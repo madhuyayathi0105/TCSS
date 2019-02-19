@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/HRMenuIndex.aspx" hash="100bd82185" filehash="cfb5579e4c86ecf0" flags="100000" assembly="App_Web_i5adv1he" type="ASP.hrmod_hrmenuindex_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRMenuIndex.aspx" />
+        <filedep name="/Source - Spread/HRMOD/HRMenuIndex.aspx.cs" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

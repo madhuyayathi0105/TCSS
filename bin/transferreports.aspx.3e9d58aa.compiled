@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/TransferReports.aspx" hash="100bd82185" filehash="f4dfa8bda4e4d274" flags="100000" assembly="App_Web_wwvlpkcs" type="ASP.librarymod_transferreports_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/LibraryMod/TransferReports.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/TransferReports.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

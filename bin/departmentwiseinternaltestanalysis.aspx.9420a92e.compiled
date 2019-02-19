@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/DepartmentWiseInternaltestAnalysis.aspx" hash="100bd82185" filehash="59e769b8550ab67c" flags="100000" assembly="App_Web_qxy5work" type="ASP.markmod_departmentwiseinternaltestanalysis_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/DepartmentWiseInternaltestAnalysis.aspx" />
+        <filedep name="/Source - Spread/MarkMod/DepartmentWiseInternaltestAnalysis.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

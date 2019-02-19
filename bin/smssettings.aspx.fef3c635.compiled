@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/SMSMOD/SmsSettings.aspx" hash="100bd82185" filehash="c5be16aa0740f684" flags="100000" assembly="App_Web_jdbj4nom" type="ASP.smsmod_smssettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/SMSMOD/SmsSettings.aspx" />
+        <filedep name="/Source - Spread/SMSMOD/SmsSettings.aspx.cs" />
+        <filedep name="/Source - Spread/SMSMOD/SMSSubSiteMaster.master" />
+        <filedep name="/Source - Spread/SMSMOD/SMSSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

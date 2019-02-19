@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Exam_moderation_forInternal.aspx" hash="100bd82185" filehash="ea17b7e9acf127da" flags="100000" assembly="App_Web_zabn3erq" type="ASP.coemod_exam_moderation_forinternal_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/Exam_moderation_forInternal.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Exam_moderation_forInternal.aspx.cs" />
+    </filedeps>
+</preserve>

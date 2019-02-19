@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Beforeandafterrevaluation.aspx" hash="100bd82185" filehash="d0b61c9488f2b7d3" flags="100000" assembly="App_Web_ji0cnsj1" type="ASP.coemod_beforeandafterrevaluation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/Beforeandafterrevaluation.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Beforeandafterrevaluation.aspx.cs" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/Student_gustAttendance.aspx" hash="100bd82185" filehash="1a64b9f2ff44143b" flags="100000" assembly="App_Web_gzzjuoqi" type="ASP.hostelmod_student_gustattendance_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+        <filedep name="/Source - Spread/HostelMod/Student_gustAttendance.aspx" />
+        <filedep name="/Source - Spread/HostelMod/Student_gustAttendance.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

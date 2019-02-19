@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/SupplierTableChange.aspx" hash="100bd82185" filehash="1447bf3b625f4d02" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.suppliertablechange_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/SupplierTableChange.aspx" />
+        <filedep name="/Source - Spread/SupplierTableChange.aspx.cs" />
+    </filedeps>
+</preserve>

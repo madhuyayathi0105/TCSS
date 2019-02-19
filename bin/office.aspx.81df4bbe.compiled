@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/OfficeMOD/Office.aspx" hash="100bd82185" filehash="2b3e295cc108a2cb" flags="100000" assembly="App_Web_tkjyd44p" type="ASP.officemod_office_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/OfficeMOD/Office.aspx" />
+        <filedep name="/Source - Spread/OfficeMOD/Office.aspx.cs" />
+        <filedep name="/Source - Spread/OfficeMOD/OfficeSubSiteMaster.master" />
+        <filedep name="/Source - Spread/OfficeMOD/OfficeSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

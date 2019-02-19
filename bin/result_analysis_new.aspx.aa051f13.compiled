@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Result_Analysis_new.aspx" hash="100bd82185" filehash="e192d74232b9d794" flags="100000" assembly="App_Web_uc5fp51t" type="ASP.coemod_result_analysis_new_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/Result_Analysis_new.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Result_Analysis_new.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

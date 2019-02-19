@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/HostelStatus.aspx" hash="100bd82185" filehash="1e580898332764ba" flags="100000" assembly="App_Web_zinmcbr3" type="ASP.admissionmod_hostelstatus_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/HostelStatus.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/HostelStatus.aspx.cs" />
+    </filedeps>
+</preserve>

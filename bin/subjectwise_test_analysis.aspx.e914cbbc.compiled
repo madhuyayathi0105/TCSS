@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/QuestionMOD/Subjectwise_Test_Analysis.aspx" hash="100bd82185" filehash="7ecabd85feec9255" flags="100000" assembly="App_Web_xun11fvt" type="ASP.questionmod_subjectwise_test_analysis_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master" />
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/QuestionMOD/Subjectwise_Test_Analysis.aspx" />
+        <filedep name="/Source - Spread/QuestionMOD/Subjectwise_Test_Analysis.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/ScheduleMOD/NewAlterBatchallocation.aspx" hash="100bd82185" filehash="d8b494bce03b9643" flags="100000" assembly="App_Web_c0dc35hp" type="ASP.schedulemod_newalterbatchallocation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/ScheduleMOD/NewAlterBatchallocation.aspx" />
+        <filedep name="/Source - Spread/ScheduleMOD/NewAlterBatchallocation.aspx.cs" />
+        <filedep name="/Source - Spread/ScheduleMOD/ScheduleSubSiteMaster.master" />
+        <filedep name="/Source - Spread/ScheduleMOD/ScheduleSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

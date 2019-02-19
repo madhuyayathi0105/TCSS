@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/AttendancePeriod_Master_Settings_New.aspx" hash="100bd82185" filehash="17295a0891d20c37" flags="100000" assembly="App_Web_azigxyad" type="ASP.attendancemod_attendanceperiod_master_settings_new_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendancePeriod_Master_Settings_New.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendancePeriod_Master_Settings_New.aspx.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

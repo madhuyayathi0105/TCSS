@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" hash="100bd82185" filehash="28f567bec204d191" flags="100000" assembly="App_Web_mgqswiug" type="ASP.financemod_financesubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

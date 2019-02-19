@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/Individual_StudentFeeStatus.aspx" hash="100bd82185" filehash="b09025cf4f1fca6d" flags="100000" assembly="App_Web_zm214yik" type="ASP.financemod_individual_studentfeestatus_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/Individual_StudentFeeStatus.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/Individual_StudentFeeStatus.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

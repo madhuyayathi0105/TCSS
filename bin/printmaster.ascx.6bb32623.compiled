@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Usercontrols/PrintMaster.ascx" hash="100bd82185" filehash="e93a29b238057f7f" flags="100000" assembly="App_Web_lzcqedpf" type="ASP.usercontrols_printmaster_ascx">
+    <filedeps>
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

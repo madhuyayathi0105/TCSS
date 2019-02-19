@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/staffattendreport.aspx" hash="100bd82185" filehash="74471df23c25556c" flags="100000" assembly="App_Web_tmejiwuh" type="ASP.hrmod_staffattendreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/HRMOD/staffattendreport.aspx" />
+        <filedep name="/Source - Spread/HRMOD/staffattendreport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

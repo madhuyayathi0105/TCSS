@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/BlackBoxMod/PostedHourReport.aspx" hash="100bd82185" filehash="fd60082bd1180fc7" flags="100000" assembly="App_Web_szbswma5" type="ASP.blackboxmod_postedhourreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master" />
+        <filedep name="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/BlackBoxMod/PostedHourReport.aspx" />
+        <filedep name="/Source - Spread/BlackBoxMod/PostedHourReport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

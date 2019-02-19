@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/MatserSubjectChooser.aspx" hash="100bd82185" filehash="5333d4573d9d7521" flags="100000" assembly="App_Web_p1aepn2t" type="ASP.attendancemod_matsersubjectchooser_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/MatserSubjectChooser.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/MatserSubjectChooser.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

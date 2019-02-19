@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/Hostel_Attendance_Manual.aspx" hash="100bd82185" filehash="2d02167317a8f692" flags="100000" assembly="App_Web_g51m05dl" type="ASP.hostelmod_hostel_attendance_manual_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/Hostel_Attendance_Manual.aspx" />
+        <filedep name="/Source - Spread/HostelMod/Hostel_Attendance_Manual.aspx.cs" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/BindingCheckList.aspx" hash="100bd82185" filehash="55c730ef8b3f1b14" flags="100000" assembly="App_Web_ih5gq4yw" type="ASP.librarymod_bindingchecklist_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/BindingCheckList.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/BindingCheckList.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

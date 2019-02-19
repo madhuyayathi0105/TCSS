@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/RankListGeneration.aspx" hash="100bd82185" filehash="b656f2182cafcf21" flags="100000" assembly="App_Web_nz2qp1zy" type="ASP.admissionmod_ranklistgeneration_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/RankListGeneration.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/RankListGeneration.aspx.cs" />
+    </filedeps>
+</preserve>

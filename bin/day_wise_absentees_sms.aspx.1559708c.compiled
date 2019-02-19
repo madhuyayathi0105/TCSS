@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/Day_Wise_Absentees_sms.aspx" hash="100bd82185" filehash="b813d04107c46778" flags="100000" assembly="App_Web_uj5zbk4j" type="ASP.attendancemod_day_wise_absentees_sms_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/Day_Wise_Absentees_sms.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/Day_Wise_Absentees_sms.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

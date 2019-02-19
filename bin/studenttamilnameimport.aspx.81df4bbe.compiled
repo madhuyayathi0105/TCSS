@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/OfficeMOD/StudentTamilnameImport.aspx" hash="100bd82185" filehash="d7172a85ac01e19f" flags="100000" assembly="App_Web_5yvsmxna" type="ASP.officemod_studenttamilnameimport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/OfficeMOD/OfficeSubSiteMaster.master" />
+        <filedep name="/Source - Spread/OfficeMOD/OfficeSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/OfficeMOD/StudentTamilnameImport.aspx" />
+        <filedep name="/Source - Spread/OfficeMOD/StudentTamilnameImport.aspx.cs" />
+    </filedeps>
+</preserve>

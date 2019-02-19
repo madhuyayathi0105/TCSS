@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/StudentSubSiteMaster.master" hash="100bd82185" filehash="bf535f008962c330" flags="100000" assembly="App_Web_izqxsv1p" type="ASP.studentmod_studentsubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

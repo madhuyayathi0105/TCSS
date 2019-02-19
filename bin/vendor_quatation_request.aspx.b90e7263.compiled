@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/InventoryMod/vendor_quatation_request.aspx" hash="100bd82185" filehash="e0ca212e8fe54d19" flags="100000" assembly="App_Web_nly3h2ja" type="ASP.inventorymod_vendor_quatation_request_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/InventoryMod/inventorysite.master" />
+        <filedep name="/Source - Spread/InventoryMod/inventorysite.master.cs" />
+        <filedep name="/Source - Spread/InventoryMod/vendor_quatation_request.aspx" />
+        <filedep name="/Source - Spread/InventoryMod/vendor_quatation_request.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

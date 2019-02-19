@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/SubjectWiseResultAnalysis2.aspx" hash="100bd82185" filehash="d516589c1fd7fde3" flags="100000" assembly="App_Web_ora50lqg" type="ASP.coemod_subjectwiseresultanalysis2_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/SubjectWiseResultAnalysis2.aspx" />
+        <filedep name="/Source - Spread/CoeMod/SubjectWiseResultAnalysis2.aspx.cs" />
+    </filedeps>
+</preserve>

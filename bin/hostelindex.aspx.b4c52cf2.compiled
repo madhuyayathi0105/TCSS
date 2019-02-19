@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/hostelindex.aspx" hash="100bd82185" filehash="41f01ed4923c142c" flags="100000" assembly="App_Web_pt4ndicp" type="ASP.hostelmod_hostelindex_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/hostelindex.aspx" />
+        <filedep name="/Source - Spread/HostelMod/hostelindex.aspx.cs" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+    </filedeps>
+</preserve>

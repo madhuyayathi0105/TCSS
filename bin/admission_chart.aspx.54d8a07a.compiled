@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/Admission_chart.aspx" hash="100bd82185" filehash="e2d8c3a1386d4f85" flags="100000" assembly="App_Web_nz2qp1zy" type="ASP.admissionmod_admission_chart_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/Admission_chart.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/Admission_chart.aspx.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

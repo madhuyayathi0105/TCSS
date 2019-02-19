@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master" hash="100bd82185" filehash="3f5ec7c618edd5ae" flags="100000" assembly="App_Web_dikco2tw" type="ASP.blackboxmod_blackboxsubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master" />
+        <filedep name="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

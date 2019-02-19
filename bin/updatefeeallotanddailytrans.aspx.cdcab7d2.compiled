@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/UpdateFeeallotanddailytrans.aspx" hash="100bd82185" filehash="36b1775d2c746f09" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.updatefeeallotanddailytrans_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/UpdateFeeallotanddailytrans.aspx" />
+        <filedep name="/Source - Spread/UpdateFeeallotanddailytrans.aspx.cs" />
+    </filedeps>
+</preserve>

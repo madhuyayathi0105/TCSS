@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/newadminnew.aspx" hash="100bd82185" filehash="9e927b7e45e3a023" flags="100000" assembly="App_Web_4325lmtg" type="ASP.attendancemod_newadminnew_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/newadminnew.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/newadminnew.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/Staff_StrengthMaster.aspx" hash="100bd82185" filehash="36bb15340ee4c316" flags="100000" assembly="App_Web_jin2frzx" type="ASP.hrmod_staff_strengthmaster_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/HRMOD/Staff_StrengthMaster.aspx" />
+        <filedep name="/Source - Spread/HRMOD/Staff_StrengthMaster.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

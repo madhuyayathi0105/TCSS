@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/CompensationLeaveSetting.aspx" hash="100bd82185" filehash="d57c16abfcc9270e" flags="100000" assembly="App_Web_kqljy0ui" type="ASP.hrmod_compensationleavesetting_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/CompensationLeaveSetting.aspx" />
+        <filedep name="/Source - Spread/HRMOD/CompensationLeaveSetting.aspx.cs" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

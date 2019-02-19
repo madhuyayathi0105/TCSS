@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/Book_Lock_Unlock.aspx" hash="100bd82185" filehash="da80c27b0287e183" flags="100000" assembly="App_Web_jui1mhyn" type="ASP.librarymod_book_lock_unlock_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/Book_Lock_Unlock.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/Book_Lock_Unlock.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

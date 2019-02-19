@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/Incometaxcalculation_report.aspx" hash="100bd82185" filehash="bd2c514a2f59f28a" flags="100000" assembly="App_Web_txxldd5e" type="ASP.hrmod_incometaxcalculation_report_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/HRMOD/Incometaxcalculation_report.aspx" />
+        <filedep name="/Source - Spread/HRMOD/Incometaxcalculation_report.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

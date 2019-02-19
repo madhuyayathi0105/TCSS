@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Revaluation_MarkEntry.aspx" hash="100bd82185" filehash="ed1dd681f9d9877c" flags="100000" assembly="App_Web_5vmedjco" type="ASP.coemod_revaluation_markentry_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/Revaluation_MarkEntry.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Revaluation_MarkEntry.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

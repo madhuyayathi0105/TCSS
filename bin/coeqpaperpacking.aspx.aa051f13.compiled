@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/COEQPaperPacking.aspx" hash="100bd82185" filehash="f11c0fec8c3a42d6" flags="100000" assembly="App_Web_3q5jyfru" type="ASP.coemod_coeqpaperpacking_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COEQPaperPacking.aspx" />
+        <filedep name="/Source - Spread/CoeMod/COEQPaperPacking.aspx.cs" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

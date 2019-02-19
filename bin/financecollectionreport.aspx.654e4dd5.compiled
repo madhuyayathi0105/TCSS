@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/FinanceCollectionReport.aspx" hash="100bd82185" filehash="cc0dfe8a055d6136" flags="100000" assembly="App_Web_1psuyteb" type="ASP.financemod_financecollectionreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceCollectionReport.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceCollectionReport.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

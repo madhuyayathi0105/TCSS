@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/BankReferenceNoImport.aspx" hash="100bd82185" filehash="f892541ef95345dc" flags="100000" assembly="App_Web_slyr201h" type="ASP.studentmod_bankreferencenoimport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/BankReferenceNoImport.aspx" />
+        <filedep name="/Source - Spread/studentmod/BankReferenceNoImport.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

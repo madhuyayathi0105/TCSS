@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/SMSMOD/SMSSubSiteMaster.master" hash="100bd82185" filehash="250090402300a002" flags="100000" assembly="App_Web_uwv5u4qh" type="ASP.smsmod_smssubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/SMSMOD/SMSSubSiteMaster.master" />
+        <filedep name="/Source - Spread/SMSMOD/SMSSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

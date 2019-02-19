@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Attendanceduplicateentryremove.aspx" hash="100bd82185" filehash="b964998f749d9974" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.attendanceduplicateentryremove_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/Attendanceduplicateentryremove.aspx" />
+        <filedep name="/Source - Spread/Attendanceduplicateentryremove.aspx.cs" />
+    </filedeps>
+</preserve>

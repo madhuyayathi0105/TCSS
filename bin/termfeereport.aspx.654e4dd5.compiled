@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/TermFeeReport.aspx" hash="100bd82185" filehash="7bc3f1d2811644a3" flags="100000" assembly="App_Web_hl2ilfft" type="ASP.financemod_termfeereport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/TermFeeReport.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/TermFeeReport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

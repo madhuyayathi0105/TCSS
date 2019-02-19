@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/UpdateFeecategoryandFinyear.aspx" hash="100bd82185" filehash="248d8e284219ffa5" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.updatefeecategoryandfinyear_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/UpdateFeecategoryandFinyear.aspx" />
+        <filedep name="/Source - Spread/UpdateFeecategoryandFinyear.aspx.cs" />
+    </filedeps>
+</preserve>

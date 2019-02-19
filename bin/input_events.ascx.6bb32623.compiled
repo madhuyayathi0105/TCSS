@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Usercontrols/Input_Events.ascx" hash="100bd82185" filehash="ea87ad7d8c942461" flags="100000" assembly="App_Web_lzcqedpf" type="ASP.usercontrols_input_events_ascx">
+    <filedeps>
+        <filedep name="/Source - Spread/Usercontrols/Input_Events.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Input_Events.ascx.cs" />
+    </filedeps>
+</preserve>

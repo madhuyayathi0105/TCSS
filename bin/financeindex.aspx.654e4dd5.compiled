@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/FinanceIndex.aspx" hash="100bd82185" filehash="98ba431677472f13" flags="100000" assembly="App_Web_r54bggg0" type="ASP.financemod_financeindex_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceIndex.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceIndex.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

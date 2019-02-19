@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/DateAndTimeSlotSettings.aspx" hash="100bd82185" filehash="f043518c12f9023f" flags="100000" assembly="App_Web_jdvmh3yk" type="ASP.admissionmod_dateandtimeslotsettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/DateAndTimeSlotSettings.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/DateAndTimeSlotSettings.aspx.cs" />
+    </filedeps>
+</preserve>

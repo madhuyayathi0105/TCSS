@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/IndividualStudentTestWisePerformance.aspx" hash="100bd82185" filehash="fffe00f6e4ad8140" flags="100000" assembly="App_Web_lfduxfzs" type="ASP.attendancemod_individualstudenttestwiseperformance_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/IndividualStudentTestWisePerformance.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/IndividualStudentTestWisePerformance.aspx.cs" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

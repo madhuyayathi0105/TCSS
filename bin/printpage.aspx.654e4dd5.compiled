@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/PrintPage.aspx" hash="100bd82185" filehash="72f3b17b89facf59" flags="100000" assembly="App_Web_mgqswiug" type="ASP.financemod_printpage_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/PrintPage.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/PrintPage.aspx.cs" />
+    </filedeps>
+</preserve>

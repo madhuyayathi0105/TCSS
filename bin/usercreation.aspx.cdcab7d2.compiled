@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/UserCreation.aspx" hash="100bd82185" filehash="94775dabc831fdcb" flags="100000" assembly="App_Web_51hysiya" type="ASP.usercreation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/Site.master" />
+        <filedep name="/Source - Spread/site.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+        <filedep name="/Source - Spread/UserCreation.aspx" />
+        <filedep name="/Source - Spread/UserCreation.aspx.cs" />
+    </filedeps>
+</preserve>

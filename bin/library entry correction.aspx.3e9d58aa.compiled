@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/library Entry Correction.aspx" hash="100bd82185" filehash="e129be9a4d3cff1a" flags="100000" assembly="App_Web_zwzqcyaw" type="ASP.librarymod_library_entry_correction_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/library Entry Correction.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/library Entry Correction.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/Selection_settings.aspx" hash="100bd82185" filehash="fed9972604c086c4" flags="100000" assembly="App_Web_2gzzr0q5" type="ASP.studentmod_selection_settings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/Selection_settings.aspx" />
+        <filedep name="/Source - Spread/studentmod/Selection_settings.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

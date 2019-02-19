@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" hash="100bd82185" filehash="154f1075ca693b9d" flags="100000" assembly="App_Web_zinmcbr3" type="ASP.admissionmod_attendancesubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

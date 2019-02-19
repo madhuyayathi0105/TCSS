@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/StaffChildren_Report.aspx" hash="100bd82185" filehash="3e9d4de546004a2c" flags="100000" assembly="App_Web_kkrdi14l" type="ASP.studentmod_staffchildren_report_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/StaffChildren_Report.aspx" />
+        <filedep name="/Source - Spread/studentmod/StaffChildren_Report.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

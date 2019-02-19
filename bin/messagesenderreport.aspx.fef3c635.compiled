@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/SMSMOD/MessageSenderReport.aspx" hash="100bd82185" filehash="f1fa69b038d119f2" flags="100000" assembly="App_Web_ip0pgoi4" type="ASP.smsmod_messagesenderreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/SMSMOD/MessageSenderReport.aspx" />
+        <filedep name="/Source - Spread/SMSMOD/MessageSenderReport.aspx.cs" />
+        <filedep name="/Source - Spread/SMSMOD/SMSSubSiteMaster.master" />
+        <filedep name="/Source - Spread/SMSMOD/SMSSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

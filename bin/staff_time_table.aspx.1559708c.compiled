@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/Staff_Time_Table.aspx" hash="100bd82185" filehash="90fe1b9f61c6856f" flags="100000" assembly="App_Web_4g3i2u5i" type="ASP.attendancemod_staff_time_table_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/Staff_Time_Table.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/Staff_Time_Table.aspx.cs" />
+    </filedeps>
+</preserve>

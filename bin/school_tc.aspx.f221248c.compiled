@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/School_Tc.aspx" hash="100bd82185" filehash="64968adf3d8c9bbc" flags="100000" assembly="App_Web_ppxejd1x" type="ASP.studentmod_school_tc_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/School_Tc.aspx" />
+        <filedep name="/Source - Spread/studentmod/School_Tc.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

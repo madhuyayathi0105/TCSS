@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Site.master" hash="100bd82185" filehash="3c2702a0aa3b2acb" flags="100000" assembly="App_Web_n3knujrq" type="ASP.site_master">
+    <filedeps>
+        <filedep name="/Source - Spread/Site.master" />
+        <filedep name="/Source - Spread/site.master.cs" />
+    </filedeps>
+</preserve>

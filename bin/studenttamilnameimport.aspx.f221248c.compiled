@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/Studenttamilnameimport.aspx" hash="100bd82185" filehash="7cdacbe01efd90d2" flags="100000" assembly="App_Web_iv5erpt2" type="ASP.studentmod_studenttamilnameimport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/studentmod/Studenttamilnameimport.aspx" />
+        <filedep name="/Source - Spread/studentmod/Studenttamilnameimport.aspx.cs" />
+    </filedeps>
+</preserve>

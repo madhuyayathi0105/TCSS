@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/TT_AlterSchedule.aspx" hash="100bd82185" filehash="9ca7aed4247fc869" flags="100000" assembly="App_Web_gw1k3gi2" type="ASP.attendancemod_tt_alterschedule_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/TT_AlterSchedule.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/TT_AlterSchedule.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

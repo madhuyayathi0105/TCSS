@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/HT_Return_item.aspx" hash="100bd82185" filehash="336ad2b87d513585" flags="100000" assembly="App_Web_tx2uhay3" type="ASP.hostelmod_ht_return_item_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+        <filedep name="/Source - Spread/HostelMod/HT_Return_item.aspx" />
+        <filedep name="/Source - Spread/HostelMod/HT_Return_item.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/ReceiptJpr.aspx" hash="100bd82185" filehash="ae8dc40c51e8881b" flags="100000" assembly="App_Web_p43tw44t" type="ASP.financemod_receiptjpr_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/ReceiptJpr.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/ReceiptJpr.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

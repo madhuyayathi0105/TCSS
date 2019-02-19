@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/StudentsMarkPrevousHistory.aspx" hash="100bd82185" filehash="a4fe572a6d278180" flags="100000" assembly="App_Web_gvgin1j0" type="ASP.markmod_studentsmarkprevoushistory_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/StudentsMarkPrevousHistory.aspx" />
+        <filedep name="/Source - Spread/MarkMod/StudentsMarkPrevousHistory.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

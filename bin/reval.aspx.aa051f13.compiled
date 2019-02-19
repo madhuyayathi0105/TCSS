@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/reval.aspx" hash="100bd82185" filehash="66616008e39cc612" flags="100000" assembly="App_Web_j1zcmguk" type="ASP.coemod_reval_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/reval.aspx" />
+        <filedep name="/Source - Spread/CoeMod/reval.aspx.cs" />
+    </filedeps>
+</preserve>

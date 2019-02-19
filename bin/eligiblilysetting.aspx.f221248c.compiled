@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/eligiblilysetting.aspx" hash="100bd82185" filehash="8d74076ad4b5e6b0" flags="100000" assembly="App_Web_tozr5ydz" type="ASP.studentmod_eligiblilysetting_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/eligiblilysetting.aspx" />
+        <filedep name="/Source - Spread/studentmod/eligiblilysetting.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

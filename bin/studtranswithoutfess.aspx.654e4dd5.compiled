@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/StudTransWithoutFess.aspx" hash="100bd82185" filehash="b6a712f9487ce89f" flags="100000" assembly="App_Web_xjcesity" type="ASP.financemod_studtranswithoutfess_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/StudTransWithoutFess.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/StudTransWithoutFess.aspx.cs" />
+    </filedeps>
+</preserve>

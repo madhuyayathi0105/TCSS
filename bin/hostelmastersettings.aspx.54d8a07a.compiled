@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/HostelMasterSettings.aspx" hash="100bd82185" filehash="20947050b939e5ab" flags="100000" assembly="App_Web_dpqc0kv3" type="ASP.admissionmod_hostelmastersettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/HostelMasterSettings.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/HostelMasterSettings.aspx.cs" />
+    </filedeps>
+</preserve>

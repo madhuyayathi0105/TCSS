@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/ReceiptPaymentCumulative.aspx" hash="100bd82185" filehash="17a982592dfa4009" flags="100000" assembly="App_Web_1ibeb2bt" type="ASP.financemod_receiptpaymentcumulative_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/ReceiptPaymentCumulative.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/ReceiptPaymentCumulative.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

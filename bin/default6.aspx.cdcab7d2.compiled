@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Default6.aspx" hash="100bd82185" filehash="9a6c3ab06bfc5c9d" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.default6_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Default6.aspx" />
+        <filedep name="/Source - Spread/Default6.aspx.cs" />
+    </filedeps>
+</preserve>

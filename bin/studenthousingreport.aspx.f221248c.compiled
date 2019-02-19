@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/StudentHousingReport.aspx" hash="100bd82185" filehash="fc3843cc0f099b62" flags="100000" assembly="App_Web_2gzzr0q5" type="ASP.studentmod_studenthousingreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/StudentHousingReport.aspx" />
+        <filedep name="/Source - Spread/studentmod/StudentHousingReport.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

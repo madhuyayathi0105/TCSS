@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Source - Spread/Handler/StudentPhoto.ashx" hash="7e98f8f6" filehash="ffffcd45ec3b5384" flags="110000" assembly="App_Web_bqd1l3hd" type="StudentPhoto">
+    <filedeps>
+        <filedep name="/Source - Spread/Handler/StudentPhoto.ashx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/ReportCardMatric_IX_And_X .aspx" hash="100bd82185" filehash="b7c066768d0a67f2" flags="100000" assembly="App_Web_cqtizmy1" type="ASP.markmod_reportcardmatric_ix_and_x__aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/ReportCardMatric_IX_And_X .aspx" />
+        <filedep name="/Source - Spread/MarkMod/ReportCardMatric_IX_And_X .aspx.cs" />
+    </filedeps>
+</preserve>

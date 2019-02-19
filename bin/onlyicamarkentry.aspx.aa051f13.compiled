@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/OnlyICAMarkEntry.aspx" hash="100bd82185" filehash="b7848f73fa17b326" flags="100000" assembly="App_Web_1vh4hsfi" type="ASP.coemod_onlyicamarkentry_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/OnlyICAMarkEntry.aspx" />
+        <filedep name="/Source - Spread/CoeMod/OnlyICAMarkEntry.aspx.cs" />
+    </filedeps>
+</preserve>

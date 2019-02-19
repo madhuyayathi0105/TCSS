@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/AdmissionStreamSettings.aspx" hash="100bd82185" filehash="553f5593f75d91fb" flags="100000" assembly="App_Web_jdvmh3yk" type="ASP.admissionmod_admissionstreamsettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AdmissionStreamSettings.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/AdmissionStreamSettings.aspx.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

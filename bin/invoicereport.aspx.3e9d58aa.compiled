@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/InvoiceReport.aspx" hash="100bd82185" filehash="c6afe3a204269df1" flags="100000" assembly="App_Web_rxxrkvfc" type="ASP.librarymod_invoicereport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/InvoiceReport.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/InvoiceReport.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

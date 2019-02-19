@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/InventoryMod/purchase_order_setting.aspx" hash="100bd82185" filehash="bb34dc17c19f49ce" flags="100000" assembly="App_Web_430lrk50" type="ASP.inventorymod_purchase_order_setting_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/InventoryMod/inventorysite.master" />
+        <filedep name="/Source - Spread/InventoryMod/inventorysite.master.cs" />
+        <filedep name="/Source - Spread/InventoryMod/purchase_order_setting.aspx" />
+        <filedep name="/Source - Spread/InventoryMod/purchase_order_setting.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

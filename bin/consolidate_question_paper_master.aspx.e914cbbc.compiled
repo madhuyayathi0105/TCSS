@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/QuestionMOD/Consolidate_question_paper_master.aspx" hash="100bd82185" filehash="8adde616d3d639d4" flags="100000" assembly="App_Web_h25ckck5" type="ASP.questionmod_consolidate_question_paper_master_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/QuestionMOD/Consolidate_question_paper_master.aspx" />
+        <filedep name="/Source - Spread/QuestionMOD/Consolidate_question_paper_master.aspx.cs" />
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master" />
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

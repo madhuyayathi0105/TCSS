@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/subjectwisemultitest.aspx" hash="100bd82185" filehash="92cde1173e3f237b" flags="100000" assembly="App_Web_jhvr1qdv" type="ASP.markmod_subjectwisemultitest_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/subjectwisemultitest.aspx" />
+        <filedep name="/Source - Spread/MarkMod/subjectwisemultitest.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

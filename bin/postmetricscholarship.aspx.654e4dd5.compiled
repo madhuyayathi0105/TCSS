@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/PostMetricScholarship.aspx" hash="100bd82185" filehash="198f894431199a0e" flags="100000" assembly="App_Web_2dkj1oaz" type="ASP.financemod_postmetricscholarship_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/PostMetricScholarship.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/PostMetricScholarship.aspx.cs" />
+    </filedeps>
+</preserve>

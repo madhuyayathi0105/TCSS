@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/BarCode.aspx" hash="100bd82185" filehash="36c4193adf3e05ed" flags="100000" assembly="App_Web_3h0juk4s" type="ASP.barcode_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/BarCode.aspx" />
+        <filedep name="/Source - Spread/BarCode.aspx.cs" />
+    </filedeps>
+</preserve>

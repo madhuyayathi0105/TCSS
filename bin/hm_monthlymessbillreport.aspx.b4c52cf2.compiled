@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/HM_MonthlyMessBillReport.aspx" hash="100bd82185" filehash="7874319f1166d23a" flags="100000" assembly="App_Web_km1s5udy" type="ASP.hostelmod_hm_monthlymessbillreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/HM_MonthlyMessBillReport.aspx" />
+        <filedep name="/Source - Spread/HostelMod/HM_MonthlyMessBillReport.aspx.cs" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

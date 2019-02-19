@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/IndividualStudentTestWisePerformance.aspx" hash="100bd82185" filehash="e04d1523fc4f3835" flags="100000" assembly="App_Web_fm4mqfpr" type="ASP.markmod_individualstudenttestwiseperformance_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/IndividualStudentTestWisePerformance.aspx" />
+        <filedep name="/Source - Spread/MarkMod/IndividualStudentTestWisePerformance.aspx.cs" />
+    </filedeps>
+</preserve>

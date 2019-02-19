@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/NewBatchschedular.aspx" hash="100bd82185" filehash="d805419e5f0e72e" flags="100000" assembly="App_Web_jnmppdr0" type="ASP.attendancemod_newbatchschedular_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/NewBatchschedular.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/NewBatchschedular.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/Input_Events.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Input_Events.ascx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

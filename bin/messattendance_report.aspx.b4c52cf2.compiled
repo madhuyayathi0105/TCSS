@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/Messattendance_report.aspx" hash="100bd82185" filehash="22976bf2987a6cfc" flags="100000" assembly="App_Web_km1s5udy" type="ASP.hostelmod_messattendance_report_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+        <filedep name="/Source - Spread/HostelMod/Messattendance_report.aspx" />
+        <filedep name="/Source - Spread/HostelMod/Messattendance_report.aspx.cs" />
+    </filedeps>
+</preserve>

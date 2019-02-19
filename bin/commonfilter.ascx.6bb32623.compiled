@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Usercontrols/Commonfilter.ascx" hash="100bd82185" filehash="25ae168f7ba16a57" flags="100000" assembly="App_Web_wwt1zy5j" type="ASP.usercontrols_commonfilter_ascx">
+    <filedeps>
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx.cs" />
+    </filedeps>
+</preserve>

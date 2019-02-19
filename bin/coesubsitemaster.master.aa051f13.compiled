@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/COESubSiteMaster.master" hash="100bd82185" filehash="417277784d2e7587" flags="100000" assembly="App_Web_ufz4r0mm" type="ASP.coemod_coesubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/SmsSendtoStudent.aspx" hash="100bd82185" filehash="bd7227439cc8323c" flags="100000" assembly="App_Web_1ypgtgxv" type="ASP.financemod_smssendtostudent_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/SmsSendtoStudent.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/SmsSendtoStudent.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

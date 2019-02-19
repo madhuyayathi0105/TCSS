@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/Student_Selection.aspx" hash="100bd82185" filehash="dce85fdeace5778e" flags="100000" assembly="App_Web_w4t34mcg" type="ASP.admissionmod_student_selection_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/Student_Selection.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/Student_Selection.aspx.cs" />
+    </filedeps>
+</preserve>

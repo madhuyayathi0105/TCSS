@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/BlackBoxMod/BlackboxHome.aspx" hash="100bd82185" filehash="8db247252f506a1d" flags="100000" assembly="App_Web_szbswma5" type="ASP.blackboxmod_blackboxhome_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/BlackBoxMod/BlackboxHome.aspx" />
+        <filedep name="/Source - Spread/BlackBoxMod/BlackboxHome.aspx.cs" />
+        <filedep name="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master" />
+        <filedep name="/Source - Spread/BlackBoxMod/BlackBoxSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

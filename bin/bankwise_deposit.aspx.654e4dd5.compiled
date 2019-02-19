@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/BankWise_Deposit.aspx" hash="100bd82185" filehash="299997d4b0377f6b" flags="100000" assembly="App_Web_lgrhnj2g" type="ASP.financemod_bankwise_deposit_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/BankWise_Deposit.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/BankWise_Deposit.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

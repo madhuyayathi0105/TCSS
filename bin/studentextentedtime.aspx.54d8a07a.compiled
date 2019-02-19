@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/StudentExtentedTime.aspx" hash="100bd82185" filehash="c45748ddd6d1625b" flags="100000" assembly="App_Web_jdvmh3yk" type="ASP.admissionmod_studentextentedtime_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/StudentExtentedTime.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/StudentExtentedTime.aspx.cs" />
+    </filedeps>
+</preserve>

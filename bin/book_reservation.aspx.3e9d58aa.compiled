@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/Book_Reservation.aspx" hash="100bd82185" filehash="1716ab8fc973f8e1" flags="100000" assembly="App_Web_bls3n1hx" type="ASP.librarymod_book_reservation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/Book_Reservation.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/Book_Reservation.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

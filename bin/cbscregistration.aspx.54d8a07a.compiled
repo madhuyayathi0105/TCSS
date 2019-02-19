@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/CBSCRegistration.aspx" hash="100bd82185" filehash="29f2b35b47a23022" flags="100000" assembly="App_Web_z0fin4ld" type="ASP.admissionmod_cbscregistration_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/CBSCRegistration.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/CBSCRegistration.aspx.cs" />
+    </filedeps>
+</preserve>

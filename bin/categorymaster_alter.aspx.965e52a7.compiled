@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/CategoryMaster_Alter.aspx" hash="100bd82185" filehash="33c1188da3623c2" flags="100000" assembly="App_Web_i4ah0wub" type="ASP.hrmod_categorymaster_alter_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/CategoryMaster_Alter.aspx" />
+        <filedep name="/Source - Spread/HRMOD/CategoryMaster_Alter.aspx.cs" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

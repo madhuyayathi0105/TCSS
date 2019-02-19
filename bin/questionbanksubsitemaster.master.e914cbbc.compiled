@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master" hash="100bd82185" filehash="80726b00fe205786" flags="100000" assembly="App_Web_ob4qez4x" type="ASP.questionmod_questionbanksubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master" />
+        <filedep name="/Source - Spread/QuestionMOD/QuestionBankSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

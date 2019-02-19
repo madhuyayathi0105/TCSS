@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/BankReconciliation.aspx" hash="100bd82185" filehash="92469762878bc609" flags="100000" assembly="App_Web_3micvghd" type="ASP.financemod_bankreconciliation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/BankReconciliation.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/BankReconciliation.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

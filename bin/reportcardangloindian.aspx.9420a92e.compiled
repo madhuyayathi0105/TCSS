@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/ReportCardAngloIndian.aspx" hash="100bd82185" filehash="d02872f008e67ff2" flags="100000" assembly="App_Web_3pbsqwg4" type="ASP.markmod_reportcardangloindian_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/ReportCardAngloIndian.aspx" />
+        <filedep name="/Source - Spread/MarkMod/ReportCardAngloIndian.aspx.cs" />
+    </filedeps>
+</preserve>

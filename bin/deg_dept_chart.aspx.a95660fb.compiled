@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/ChartMOD/deg_dept_chart.aspx" hash="100bd82185" filehash="8cea03ea2467110d" flags="100000" assembly="App_Web_5fzuugjt" type="ASP.chartmod_deg_dept_chart_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/ChartMOD/ChartSubSiteMaster.master" />
+        <filedep name="/Source - Spread/ChartMOD/ChartSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/ChartMOD/deg_dept_chart.aspx" />
+        <filedep name="/Source - Spread/ChartMOD/deg_dept_chart.aspx.cs" />
+    </filedeps>
+</preserve>

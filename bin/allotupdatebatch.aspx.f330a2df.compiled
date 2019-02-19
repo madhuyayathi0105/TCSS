@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Update DB/AllotUpdateBatch.aspx" hash="100bd82185" filehash="402ed480ebc20d1a" flags="100000" assembly="App_Web_zpboqgfq" type="ASP.update_db_allotupdatebatch_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/Update DB/AllotUpdateBatch.aspx" />
+        <filedep name="/Source - Spread/Update DB/AllotUpdateBatch.aspx.cs" />
+        <filedep name="/Source - Spread/Update DB/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/Update DB/FinanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

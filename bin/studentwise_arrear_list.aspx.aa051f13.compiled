@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Studentwise_Arrear_List.aspx" hash="100bd82185" filehash="b1ea79a89e954d87" flags="100000" assembly="App_Web_zabn3erq" type="ASP.coemod_studentwise_arrear_list_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/Studentwise_Arrear_List.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Studentwise_Arrear_List.aspx.cs" />
+    </filedeps>
+</preserve>

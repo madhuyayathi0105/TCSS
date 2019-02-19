@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/Hostel_conversion.aspx" hash="100bd82185" filehash="8a74f981530c5370" flags="100000" assembly="App_Web_acf52zaq" type="ASP.hostelmod_hostel_conversion_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/Hostel_conversion.aspx" />
+        <filedep name="/Source - Spread/HostelMod/Hostel_conversion.aspx.cs" />
+    </filedeps>
+</preserve>

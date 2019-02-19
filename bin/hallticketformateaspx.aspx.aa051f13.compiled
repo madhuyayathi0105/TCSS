@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/HallTicketFormateaspx.aspx" hash="100bd82185" filehash="65727535c74cb43b" flags="100000" assembly="App_Web_zswyoz5z" type="ASP.coemod_hallticketformateaspx_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/HallTicketFormateaspx.aspx" />
+        <filedep name="/Source - Spread/CoeMod/HallTicketFormateaspx.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

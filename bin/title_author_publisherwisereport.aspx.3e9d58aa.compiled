@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/Title_Author_publisherwisereport.aspx" hash="100bd82185" filehash="1231102978863ed5" flags="100000" assembly="App_Web_ih5gq4yw" type="ASP.librarymod_title_author_publisherwisereport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/LibraryMod/Title_Author_publisherwisereport.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/Title_Author_publisherwisereport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

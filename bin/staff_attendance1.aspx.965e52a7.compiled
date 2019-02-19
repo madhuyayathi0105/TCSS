@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/Staff_Attendance1.aspx" hash="100bd82185" filehash="25f49572b7e4e440" flags="100000" assembly="App_Web_03sgz3lg" type="ASP.hrmod_staff_attendance1_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/HRMOD/Staff_Attendance1.aspx" />
+        <filedep name="/Source - Spread/HRMOD/Staff_Attendance1.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/FinancestudPaidDet.aspx" hash="100bd82185" filehash="2c54d7a22e7f5ea0" flags="100000" assembly="App_Web_mlqscgkf" type="ASP.financemod_financestudpaiddet_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinancestudPaidDet.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/FinancestudPaidDet.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

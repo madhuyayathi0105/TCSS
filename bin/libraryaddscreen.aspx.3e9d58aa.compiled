@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/LibraryAddScreen.aspx" hash="100bd82185" filehash="bda071699f625cdd" flags="100000" assembly="App_Web_h3nalk01" type="ASP.librarymod_libraryaddscreen_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/LibraryAddScreen.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryAddScreen.aspx.cs" />
+    </filedeps>
+</preserve>

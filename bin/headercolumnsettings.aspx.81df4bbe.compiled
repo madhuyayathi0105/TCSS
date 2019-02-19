@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/OfficeMOD/HeaderColumnSettings.aspx" hash="100bd82185" filehash="3018e51ff3eff450" flags="100000" assembly="App_Web_5ighngsg" type="ASP.officemod_headercolumnsettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/OfficeMOD/HeaderColumnSettings.aspx" />
+        <filedep name="/Source - Spread/OfficeMOD/HeaderColumnSettings.aspx.cs" />
+        <filedep name="/Source - Spread/OfficeMOD/OfficeSubSiteMaster.master" />
+        <filedep name="/Source - Spread/OfficeMOD/OfficeSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

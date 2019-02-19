@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/Resultanalysis.aspx" hash="100bd82185" filehash="386a16ae7440b1ad" flags="100000" assembly="App_Web_qxy5work" type="ASP.markmod_resultanalysis_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/Resultanalysis.aspx" />
+        <filedep name="/Source - Spread/MarkMod/Resultanalysis.aspx.cs" />
+    </filedeps>
+</preserve>

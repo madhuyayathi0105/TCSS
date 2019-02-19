@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/SubjectSelectedStudentreport.aspx" hash="100bd82185" filehash="d905bf6930a79b19" flags="100000" assembly="App_Web_i2lrcqwg" type="ASP.attendancemod_subjectselectedstudentreport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AttendanceMOD/SubjectSelectedStudentreport.aspx" />
+        <filedep name="/Source - Spread/AttendanceMOD/SubjectSelectedStudentreport.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

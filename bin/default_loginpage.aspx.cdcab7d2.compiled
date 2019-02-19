@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/Default_LoginPage.aspx" hash="100bd82185" filehash="172b0d8f0e113302" flags="100000" assembly="App_Web_51hysiya" type="ASP.default_loginpage_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/Default_LoginPage.aspx" />
+        <filedep name="/Source - Spread/Default_LoginPage.aspx.cs" />
+        <filedep name="/Source - Spread/Site.master" />
+        <filedep name="/Source - Spread/site.master.cs" />
+    </filedeps>
+</preserve>

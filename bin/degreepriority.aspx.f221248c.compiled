@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/studentmod/DegreePriority.aspx" hash="100bd82185" filehash="eac7efa5204b2829" flags="100000" assembly="App_Web_55lumtko" type="ASP.studentmod_degreepriority_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/studentmod/DegreePriority.aspx" />
+        <filedep name="/Source - Spread/studentmod/DegreePriority.aspx.cs" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master" />
+        <filedep name="/Source - Spread/studentmod/StudentSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

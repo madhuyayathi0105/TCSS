@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/Library_Notification.aspx" hash="100bd82185" filehash="95f63688105ec729" flags="100000" assembly="App_Web_2um0kazc" type="ASP.librarymod_library_notification_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/Library_Notification.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/Library_Notification.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+    </filedeps>
+</preserve>

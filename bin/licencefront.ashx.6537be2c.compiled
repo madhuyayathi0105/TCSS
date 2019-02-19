@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Source - Spread/Handler/licencefront.ashx" hash="7e98f8f6" filehash="ffffd74a3ef81609" flags="110000" assembly="App_Web_bqd1l3hd" type="licencefront">
+    <filedeps>
+        <filedep name="/Source - Spread/Handler/licencefront.ashx" />
+    </filedeps>
+</preserve>

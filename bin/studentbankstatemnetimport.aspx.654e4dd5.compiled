@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/StudentBankStatemnetImport.aspx" hash="100bd82185" filehash="5eb704bdc60dcbee" flags="100000" assembly="App_Web_zm214yik" type="ASP.financemod_studentbankstatemnetimport_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/StudentBankStatemnetImport.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/StudentBankStatemnetImport.aspx.cs" />
+    </filedeps>
+</preserve>

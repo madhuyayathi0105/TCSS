@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/AcademicYearSettings.aspx" hash="100bd82185" filehash="607da78ffa0f0944" flags="100000" assembly="App_Web_y4q4agyz" type="ASP.financemod_academicyearsettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/AcademicYearSettings.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/AcademicYearSettings.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

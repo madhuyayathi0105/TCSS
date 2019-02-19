@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/News_Paper_Entry.aspx" hash="100bd82185" filehash="6f90a72d84e511df" flags="100000" assembly="App_Web_jui1mhyn" type="ASP.librarymod_news_paper_entry_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/LibraryMod/News_Paper_Entry.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/News_Paper_Entry.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

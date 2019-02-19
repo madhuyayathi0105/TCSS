@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/LibraryHome.aspx" hash="100bd82185" filehash="8636acf894c375f3" flags="100000" assembly="App_Web_gp5f0dq3" type="ASP.librarymod_libraryhome_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/LibraryHome.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryHome.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/LibraryMod/BooKAllocation.aspx" hash="100bd82185" filehash="d9434e9a37a41145" flags="100000" assembly="App_Web_3012xn2e" type="ASP.librarymod_bookallocation_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/LibraryMod/BooKAllocation.aspx" />
+        <filedep name="/Source - Spread/LibraryMod/BooKAllocation.aspx.cs" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master" />
+        <filedep name="/Source - Spread/LibraryMod/LibraryMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

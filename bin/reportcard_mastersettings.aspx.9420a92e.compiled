@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/reportcard_mastersettings.aspx" hash="100bd82185" filehash="46da115d75629cda" flags="100000" assembly="App_Web_z4pzhubi" type="ASP.markmod_reportcard_mastersettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/reportcard_mastersettings.aspx" />
+        <filedep name="/Source - Spread/MarkMod/reportcard_mastersettings.aspx.cs" />
+    </filedeps>
+</preserve>

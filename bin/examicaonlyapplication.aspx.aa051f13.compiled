@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/ExamICAOnlyApplication.aspx" hash="100bd82185" filehash="ac4a64b39dab24ee" flags="100000" assembly="App_Web_ji0cnsj1" type="ASP.coemod_examicaonlyapplication_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/ExamICAOnlyApplication.aspx" />
+        <filedep name="/Source - Spread/CoeMod/ExamICAOnlyApplication.aspx.cs" />
+    </filedeps>
+</preserve>

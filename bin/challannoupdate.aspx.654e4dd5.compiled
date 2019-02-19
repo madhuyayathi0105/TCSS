@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/ChallanNoUpdate.aspx" hash="100bd82185" filehash="90764c383dc1f8c3" flags="100000" assembly="App_Web_p43tw44t" type="ASP.financemod_challannoupdate_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/ChallanNoUpdate.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/ChallanNoUpdate.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

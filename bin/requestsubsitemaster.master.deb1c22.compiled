@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/RequestMOD/RequestSubSiteMaster.master" hash="100bd82185" filehash="99a4955380f9df4b" flags="100000" assembly="App_Web_g3yr2nzo" type="ASP.requestmod_requestsubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/RequestMOD/RequestSubSiteMaster.master" />
+        <filedep name="/Source - Spread/RequestMOD/RequestSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

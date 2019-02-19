@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/CoeMod/Subwise_Analy_rep.aspx" hash="100bd82185" filehash="16586932bb2c306" flags="100000" assembly="App_Web_t3rryspa" type="ASP.coemod_subwise_analy_rep_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master" />
+        <filedep name="/Source - Spread/CoeMod/COESubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/CoeMod/Subwise_Analy_rep.aspx" />
+        <filedep name="/Source - Spread/CoeMod/Subwise_Analy_rep.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

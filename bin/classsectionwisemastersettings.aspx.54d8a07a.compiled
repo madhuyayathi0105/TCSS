@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AdmissionMod/ClassSectionWiseMasterSettings.aspx" hash="100bd82185" filehash="6b64e57bf5b9e443" flags="100000" assembly="App_Web_cre5a5k4" type="ASP.admissionmod_classsectionwisemastersettings_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AdmissionMod/AttendanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/AdmissionMod/ClassSectionWiseMasterSettings.aspx" />
+        <filedep name="/Source - Spread/AdmissionMod/ClassSectionWiseMasterSettings.aspx.cs" />
+    </filedeps>
+</preserve>

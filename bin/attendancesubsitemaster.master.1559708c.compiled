@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" hash="100bd82185" filehash="9f17ec982a8abfff" flags="100000" assembly="App_Web_lfduxfzs" type="ASP.attendancemod_attendancesubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/AttendanceMOD/AttendanceSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/CAMSubSiteMaster.master" hash="100bd82185" filehash="909c8050b00c732f" flags="100000" assembly="App_Web_11skqsy1" type="ASP.markmod_camsubsitemaster_master">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+    </filedeps>
+</preserve>

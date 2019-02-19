@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/MarkMod/DegreewiseResultAnalysis.aspx" hash="100bd82185" filehash="b1e2d5c8d93a0198" flags="100000" assembly="App_Web_y1tm3crd" type="ASP.markmod_degreewiseresultanalysis_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master" />
+        <filedep name="/Source - Spread/MarkMod/CAMSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/MarkMod/DegreewiseResultAnalysis.aspx" />
+        <filedep name="/Source - Spread/MarkMod/DegreewiseResultAnalysis.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/NewPrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HRMOD/Code_Setting.aspx" hash="100bd82185" filehash="88837e446246b7bc" flags="100000" assembly="App_Web_krhvv1fo" type="ASP.hrmod_code_setting_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HRMOD/Code_Setting.aspx" />
+        <filedep name="/Source - Spread/HRMOD/Code_Setting.aspx.cs" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master" />
+        <filedep name="/Source - Spread/HRMOD/HRSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/Commonfilter.ascx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

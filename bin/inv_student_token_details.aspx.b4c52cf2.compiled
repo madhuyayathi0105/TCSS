@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/HostelMod/Inv_student_token_details.aspx" hash="100bd82185" filehash="8182d7f43814eea5" flags="100000" assembly="App_Web_g51m05dl" type="ASP.hostelmod_inv_student_token_details_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master" />
+        <filedep name="/Source - Spread/HostelMod/hostelsite.master.cs" />
+        <filedep name="/Source - Spread/HostelMod/Inv_student_token_details.aspx" />
+        <filedep name="/Source - Spread/HostelMod/Inv_student_token_details.aspx.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

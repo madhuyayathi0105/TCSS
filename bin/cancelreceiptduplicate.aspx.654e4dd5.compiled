@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/CancelReceiptDuplicate.aspx" hash="100bd82185" filehash="de5cf9781bd5baab" flags="100000" assembly="App_Web_xt2vvnef" type="ASP.financemod_cancelreceiptduplicate_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/CancelReceiptDuplicate.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/CancelReceiptDuplicate.aspx.cs" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx" />
+        <filedep name="/Source - Spread/Usercontrols/PrintMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/FinanceMod/OnlineFeesTransactionUpdate.aspx" hash="100bd82185" filehash="3aa83aa1af799001" flags="100000" assembly="App_Web_oxdqx0ax" type="ASP.financemod_onlinefeestransactionupdate_aspx">
+    <filedeps>
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master" />
+        <filedep name="/Source - Spread/FinanceMod/FinanceSubSiteMaster.master.cs" />
+        <filedep name="/Source - Spread/FinanceMod/OnlineFeesTransactionUpdate.aspx" />
+        <filedep name="/Source - Spread/FinanceMod/OnlineFeesTransactionUpdate.aspx.cs" />
+    </filedeps>
+</preserve>

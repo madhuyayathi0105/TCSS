@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Source - Spread/IpatchMod/ipatch.master" hash="100bd82185" filehash="b96372019cf1f81d" flags="100000" assembly="App_Web_kupwzct1" type="ASP.ipatchmod_ipatch_master">
+    <filedeps>
+        <filedep name="/Source - Spread/IpatchMod/ipatch.master" />
+        <filedep name="/Source - Spread/IpatchMod/ipatch.master.cs" />
+    </filedeps>
+</preserve>
